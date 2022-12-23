@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\git_repositorys\MSKConnect\MSKConnect\bin\Release\net6.0\publish\win-x64\MSKConnect.pdb
+C:\Users\Administrator\Documents\git_repositorys\MSKConnect\MSKConnect\bin\Release\net6.0\publish\win-x64\MSKConnect.exe
